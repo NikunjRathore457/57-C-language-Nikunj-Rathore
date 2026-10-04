@@ -13,7 +13,8 @@ int main()
     scanf("%d", &b);
 
     c = a * b;
-
+    
+    printf("My name is Nikunj Rathore solve Question 4\n");
     printf("product = %d", c);
 
     return 0;
