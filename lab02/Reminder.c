@@ -5,7 +5,8 @@ int main()
     int a;
     int b;
     int c;
-
+    
+    printf("My name is Nikunj Rathore solve Question 6\n");
     printf("Enter first number:");
     scanf("%d", &a);
 
