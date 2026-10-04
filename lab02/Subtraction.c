@@ -14,6 +14,7 @@ int main()
 
     c = a - b;
 
+    printf("My name is Nikunj Rathore solve Question 3\n");
     printf("difference = %d", c);
 
     return 0;
