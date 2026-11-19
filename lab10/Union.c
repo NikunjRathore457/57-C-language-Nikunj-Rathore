@@ -11,7 +11,7 @@ int main()
 {
     union Data d;
 
-    d.i = 10;
+    d.i = 15;
 
     printf("my name is Nikunj Rathore solve question 25\n ");
     printf("Integer: %d", d.i);
